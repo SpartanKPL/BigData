@@ -185,8 +185,31 @@ Outcome:
 ### Capital One
 ![](images/Capitalone.png) 
 <br>  
-Objective: Enhance security, agility, and innovation while reducing data center costs.
+Objective: Enhance security, agility, and innovation while reducing data center costs.  
+<br>
 
+Migration Strategy:
+
+* Hybrid Cloud Approach: Capital One initially adopted a hybrid cloud approach, integrating cloud services with their on-premises data centers to manage sensitive data securely.  
+<br>
+* Cloud-Native Development: The company invested in cloud-native development practices, including DevOps and continuous integration/continuous deployment (CI/CD), to accelerate innovation.  
+<br>
+* Security Focus: Capital One prioritized security by implementing advanced cloud security features, encryption, and robust access management.  
+<br>
+
+
+Outcome:
+
+* Security: Capital One enhanced its security posture by leveraging AWS’s security features, ensuring compliance with stringent financial regulations.  
+<br>
+
+* Agility and Innovation: The adoption of cloud-native practices has enabled faster development cycles, allowing Capital One to innovate and bring new products to market more quickly.  
+<br>
+
+* Cost Savings: By reducing reliance on physical data centers, Capital One has significantly cut operational costs while increasing scalability.  
+<br>
+
+Cloud Provider: Amazon Web Services (AWS)
 
 <br>
 
