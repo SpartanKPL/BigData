@@ -16,6 +16,7 @@ Some key characteristics of cloud are:
 * Rapid Elasticity
 * Measured Service  
 <br>
+
 ## Differences between on-prem and the cloud?
 ***
 
@@ -81,6 +82,7 @@ software from any device with internet connectivity.
 | **Examples**         | AWS EC2, Microsoft Azure Virtual Machines                            | Google App Engine, Azure App Services, Heroku                            | Salesforce, Google Workspace                                             |  
 <br>
 
+![](images/Services.png)
 ## What are the advantages/disadvantages of the cloud businesses?
 ***
 
@@ -116,4 +118,79 @@ to cloud this would refer to the costs of subscriptions or pay-as-you-go models 
 ## Cloud market share breakdown
 ***
 ![](images/marketshare.jpeg)
-AWS is the leading cloud service provider with microsoft azure and goolge cloud following behind.
+AWS is the leading cloud service provider with Microsoft Azure and google cloud following behind.  
+<br>
+## What are the 3 largest Cloud providers known for
+***
+
+1. Amazon Web Services (AWS)  <br>
+
+AWS is the largest and most mature cloud provider, offering a wide array of services and a global infrastructure.
+
+![](images/AWS.png)
+
+AWS's comprehensive service portfolio, unmatched scalability, global reach, robust security, continuous innovation, and 
+strong support for advanced technologies like AI and big data lead it to being the most popular cloud service provider.  
+<br>
+2. Microsoft Azure  <br>
+
+Microsoft Azure is known for its strong integration with Microsoft products and services, catering to enterprises that 
+rely on Windows and other Microsoft technologies.
+
+![](images/Azure.png)
+
+Microsoft Azure’s integration with Microsoft products, strong hybrid cloud capabilities, security and compliance, 
+robust developer and DevOps tools, advanced AI and machine learning services, powerful data and analytics offerings, and 
+support for open-source technologies make it a popular choice for businesses.  
+<br>
+3. Google Cloud Platform  <br>
+
+Google Cloud Platform is known for its strengths in data analytics, machine learning, and artificial intelligence.  
+<br>
+![](images/GCP.png)
+
+GCP's strong exceptional data analytics and big data capabilities, machine learning and AI services and innovative hybrid and multi-cloud solutions
+make it a strong choice for companies looking to leverage its big data and machine learning expertise.  
+<br>
+## Case Studies
+***
+### Netflix
+![](images/netflix.png)  
+<br>
+Objective: Improve scalability, reliability, and performance to handle a rapidly growing customer base and increasing 
+content demand.  
+
+Migration Strategy:
+
+* Adopt a Cloud-First Approach: Netflix decided to move its entire IT infrastructure to the cloud to leverage the scalability and flexibility of cloud services.  
+<br>
+* Phased Migration: The migration was carried out in phases, starting with non-critical applications and moving towards more critical workloads.  
+<br>
+* Microservices Architecture: Netflix re-architected its applications into a microservices architecture to improve scalability and resilience. Each microservice runs independently and can scale according to demand.
+
+Outcome:
+
+* Scalability: Netflix can now seamlessly scale its infrastructure to handle millions of simultaneous viewers, providing a smooth streaming experience during peak times.  
+<br>
+* Reliability: By leveraging AWS’s global infrastructure and multiple availability zones, Netflix has significantly improved its service reliability and reduced downtime.  
+<br>
+* Performance: The cloud migration enabled Netflix to deploy updates and new features more rapidly, enhancing user experience and staying ahead of competitors.  
+<br>
+
+<br>
+* Cloud Provider: Amazon Web Services (AWS)
+
+<br>
+
+### Capital One
+![](images/Capitalone.png) 
+<br>  
+Objective: Enhance security, agility, and innovation while reducing data center costs.
+
+
+<br>
+
+### Spotify
+![](images/Spotify.png)  
+<br>
+Objective: Improve operational efficiency, scale to support global growth, and enhance data analytics capabilities.
